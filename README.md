@@ -24,6 +24,5 @@ Through Google Collab,Model has been trained on provided data though techniques 
 
 Folder "Docker_Deployment_file" :
 It contains files related to Docker + Flask developement for deployment of application 
-One can directly get the docker file through 
 
 Thank you :)
