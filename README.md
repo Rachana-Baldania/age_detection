@@ -25,7 +25,5 @@ Through Google Collab,Model has been trained on provided data though techniques 
 Folder "Docker_Deployment_file" :
 It contains files related to Docker + Flask developement for deployment of application 
 One can directly get the docker file through 
-Pull from Docker : https://hub.docker.com/r/rachanasimform/age_detection/tags 
-by using command line docker pull rachanasimform/age_detection:latest
 
 Thank you :)
