@@ -53,9 +53,5 @@ File "Code/age_estimation_v3_MLFlow_Colab.ipynb": It is a age estimation predict
 
 Folder "Docker_Deployment_file" : 
 It contains files related to Docker + Flask developement for deployment of application 
-One can directly get the docker file through 
-Pull from Docker : https://hub.docker.com/r/rachanasimform/age_detection/tags 
-by using command line docker pull rachanasimform/age_detection:latest2
 
-Also aded in bitbucket age_detection: https://bitbucket.org/simformteam/ml-poc/src/master/
 Thank you :) 
