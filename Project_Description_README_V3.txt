@@ -7,7 +7,6 @@ Dataset:
 
 Version 3,  we generally need to provide the image like this only but team would like to provide image at test side person full body image or any other image should be cropped automatically and detect the age.I have again created another model where i have cropped face images  and then trained in 9 age ranges such as 20-24, 25-29,30-34, 35-39, 40-44,45-49,50-54,55-59, 60-65, which achieved around 60% accuracy on training data. I have used different parameters and model architecture, I have tracked almost all experiments which were run on google collab in dagshub.  
 
-Docker File: docker pull rachanasimform/age_detection:latest3 
 
 Dagshub: https://dagshub.com/rachana/age_detection/experiments/#/experiment/m_ece39d26fb8246b2b16ec4c6a6bc6a68 
 
